@@ -12,3 +12,10 @@ greate user with a start button and a picture of the pet. The second page consis
 on the buttons the progressbars below will increase. I added three textViews to give a description of each progressbar so user can tell which button is connected to which 
 progress bar. I faced alot of challanges coding this app but I managed to finish the app. The first challange I faced was add progressbars and getting them to run properly with no problems, the second challange I faced was connecting the buttons to the progressbars. In future I plan to change the progressbars into numbers and percentage so 
 users can see the actual amount of happy or how hungery the pet is. I also want to Add more pictures and pages.</p>
+
+<h3>How to Install and Run the Project</h3>
+<p>User can get the App on google playstore. Just open your playstore on your device, click on the search engine on playstore and type out the name of the app "TamagotchiApp".
+It will then appear and you will have to click on it and click on download and then install the app on your device.</p>
+
+<h4>How to Use the Project</h4>
+<p>Here is a link to a youtube video on how to use the app.</p>
