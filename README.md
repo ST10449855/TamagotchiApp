@@ -23,7 +23,7 @@ It will then appear and you will have to click on it and click on download and t
 <h2>Credits</h2>
 <p>I got my code from the geeks for geeks website **[EFF](https://www.geeksforgeeks.org/progressbar-in-kotlin/?ref=gcse)** . It was very helpful throughtout coding my project, it also has a lot of information and codes to refer too. </p>
 
-<h5>Inconclusion</h5>
-<p>The app is great and fun. It will only get better and better as time goes on because of updates and new features that I will add on it. I will get the code to perform 
-more faster and get the avators to actual move, but for now try it see if it is fun or not but most inportantly does it actually serves it purpose.</p>
+<h2>Overall</h2>
+<p>The app is great fun and will continue to improve with updates and new features. I aim to make the code more efficient and add animations to the avatars in future updates. Try it out and see if it's both fun and educational!
+</p>
 
