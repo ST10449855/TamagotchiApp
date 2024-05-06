@@ -17,11 +17,11 @@ users can see the actual amount of happy or how hungery the pet is. I also want 
 <p>User can get the App on google playstore. Just open your playstore on your device, click on the search engine on playstore and type out the name of the app "TamagotchiApp".
 It will then appear and you will have to click on it and click on download and then install the app on your device.</p>
 
-<h4>How to Use the Project</h4>
+<h2>How to Use the Project</h2>
 <p>Here is a link to a youtube video on how to use the app.</p> **[EFF](https://youtu.be/7LnKQy7DeMI)**
 
 <h2>Credits</h2>
-<p>I got my code from the geeks for geeks website <a href=https://www.geeksforgeeks.org/progressbar-in-kotlin/?ref=gcse></a> </p>
+<p>I got my code from the geeks for geeks website **[EFF](https://www.geeksforgeeks.org/progressbar-in-kotlin/?ref=gcse)** </p>
 
 <h5>Inconclusion</h5>
 <p>The app is great and fun. It will only get better and better as time goes on because of updates and new features that I will add on it. I will get the code to perform 
