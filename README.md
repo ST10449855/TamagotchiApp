@@ -21,7 +21,7 @@ It will then appear and you will have to click on it and click on download and t
 <p>Here is a link to a youtube video on how to use the app.</p> **[EFF](https://youtu.be/7LnKQy7DeMI)**
 
 <h2>Credits</h2>
-<p>I got my code from the geeks for geeks website <https://www.geeksforgeeks.org/progressbar-in-kotlin/?ref=gcse></p>
+<p>I got my code from the geeks for geeks website <https://www.geeksforgeeks.org/progressbar-in-kotlin/?ref=gcse> </p>
 
 <h5>Inconclusion</h5>
 <p>The app is great and fun. It will only get better and better as time goes on because of updates and new features that I will add on it. I will get the code to perform 
