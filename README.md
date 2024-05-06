@@ -19,3 +19,8 @@ It will then appear and you will have to click on it and click on download and t
 
 <h4>How to Use the Project</h4>
 <p>Here is a link to a youtube video on how to use the app.</p> **[EFF](https://youtu.be/7LnKQy7DeMI)**
+
+<h5>Inconclusion</h5>
+<p>The app is greate and fun. It will only get better and better as time goes on because of updates and new features that I will add on it. I will get the code to perform 
+more faster and get the avators to actual move, but for now try it see if it is fun or not but most inportantly does it actually serves it purpose.</p>
+
