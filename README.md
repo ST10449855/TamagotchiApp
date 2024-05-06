@@ -18,4 +18,4 @@ users can see the actual amount of happy or how hungery the pet is. I also want 
 It will then appear and you will have to click on it and click on download and then install the app on your device.</p>
 
 <h4>How to Use the Project</h4>
-<p>Here is a link to a youtube video on how to use the app.</p> **[EFF](https://youtu.be/7LnKQy7DeMI)**.
+<p>Here is a link to a youtube video on how to use the app.</p> **[EFF](https://youtu.be/7LnKQy7DeMI)**
